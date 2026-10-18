@@ -15,10 +15,10 @@ A web portal for the Botany Alumni Association, Ch. Charan Singh University, Mee
 
 ## Tech Stack
 
-- **Backend:** [ASP.NET Core / ASP.NET MVC], C#
+- **Backend:** [ASP.NET Core], C#
 - **Database:** SQL Server
 - **Frontend:** HTML5, CSS3, JavaScript, [Bootstrap / jQuery]
-- **Deployment:** [IIS / hosting provider name]
+- **Deployment:** [IIS]
 
 ## Database
 
@@ -37,8 +37,11 @@ SQL script: `database/schema.sql`
 5. Press F5 to run the project
 
 ## Screenshots
+![Home page](screenshots/home.png)
+![By-Laws page](screenshots/Laws.png)
+![Photogallery page](screenshots/Photogallery.png)
 
-(Add 2-3 screenshots here: home page, registration page, events page)
+
 
 ## Author
 
